@@ -19,11 +19,11 @@ Module 6 WeatherPy with Python APIs
 - [x]Exploratory Analysis with Visualization
 - [x]Create a Customer Travel Destomaton Map
 
-![[WeatherPy_vacation_map](https://github.com/robyndook/World_Weather_Analysis/blob/135d910effbb5eaaaddbe7f3e56c6f335c7d7673/Vacation_Search/WeatherPy_vacation_map.png)
+![WeatherPy_vacation_map](https://github.com/robyndook/World_Weather_Analysis/blob/135d910effbb5eaaaddbe7f3e56c6f335c7d7673/Vacation_Search/WeatherPy_vacation_map.png)
 
 ![WeatherPy_travel_map](https://github.com/robyndook/World_Weather_Analysis/blob/135d910effbb5eaaaddbe7f3e56c6f335c7d7673/Vacation_Itinerary/WeatherPy_travel_map.PNG)
 
-![[WeatherPy_travel_map_markers](https://github.com/robyndook/World_Weather_Analysis/blob/135d910effbb5eaaaddbe7f3e56c6f335c7d7673/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+![WeatherPy_travel_map_markers](https://github.com/robyndook/World_Weather_Analysis/blob/135d910effbb5eaaaddbe7f3e56c6f335c7d7673/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ###### Resources
 - WeatherPy_Database.csv
